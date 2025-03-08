@@ -1,0 +1,38 @@
+html {
+    font-size: 10px;
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    background-color:honeydew;
+}
+h1{
+    font-size:60px;
+    text-align:center;
+    margin:0;
+    padding:20px 0;
+    color:lightgreen;
+    text-shadow:3px 3px 8px black
+}
+
+p,
+li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing:1px;
+    background-color:aqua;
+}
+
+a{
+    font-size:20px;
+}
+body {
+    width: 850px;
+    margin: 0 auto;
+    background-color: honeydew;
+    padding: 0,20px,20px,20px;
+    border: 3px solid gold
+}
+img{
+    width:330px;
+    height:300px;
+    display:block;
+    margin:0 auto;
+}
